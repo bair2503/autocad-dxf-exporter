@@ -1,0 +1,30 @@
+# Виртуальное окружение
+.venv/
+venv/
+env/
+
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.Python
+
+# Выходные данные
+*.dxf
+*.json
+*.csv
+*.xlsx
+*.png
+*.html
+
+# Системные
+.DS_Store
+Thumbs.db
+*.log
+~$*
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
