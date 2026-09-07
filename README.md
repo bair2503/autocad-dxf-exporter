@@ -1,4 +1,3 @@
-cat > README.md << 'EOF'
 # AutoCAD DXF Exporter
 
 Скрипт для извлечения данных из DXF файлов и экспорта в JSON/CSV/Excel.
